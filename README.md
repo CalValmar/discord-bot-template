@@ -70,14 +70,6 @@ async def setup(bot):
 
 2. Le cog se charge automatiquement au démarrage du bot.
 
-## Bonnes pratiques intégrées
-
-- ✅ Gestion d'erreurs en place
-- ✅ Token sécurisé via `.env`
-- ✅ Logging structuré
-- ✅ Structure modulaire (cogs)
-- ✅ Pas de hardcoding
-
 ### Auteur
 Valmar
 
