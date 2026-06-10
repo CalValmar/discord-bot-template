@@ -70,9 +70,6 @@ async def setup(bot):
 
 2. Le cog se charge automatiquement au démarrage du bot.
 
-### Auteur
-Valmar
-
 ## Licence
 
 MIT — Libre d'utilisation
